@@ -31,7 +31,7 @@ const con = mysql.createConnection({
     host: "172.17.0.1",
     port: "6520",
     user: "root",
-    password: "alunos@123",
+    password: "123@senac",
     database: "bancoloja",
 });
 // executar a conexão com o banco de dados
